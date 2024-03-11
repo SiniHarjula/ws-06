@@ -1,0 +1,68 @@
+body {
+  background-color:rgb(245, 203, 236);
+  margin: 0;
+}
+section {
+  margin-left: 210px;
+}
+
+#pääotsikko {
+    width: 300px;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 20px;
+    border-color: rgb(166, 128, 202);
+    color: rgb(19, 3, 32);
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+  }
+
+#navbar {
+    width: 100%;
+    background-color: rgb(204, 142, 240);
+    text-align: center;
+    padding: 10px;
+  }
+
+#navbar a:hover {
+    color: red;
+  }
+
+#linkit {
+    float:left;
+    width: 200px;
+    background-color: rgb(197, 120, 197);
+    height: 100vh;
+    margin-top: 0;
+  }
+
+#alaotsikko {
+    text-align: left;
+  }
+
+#toinensivuteksti {
+    background-color: rgb(166, 128, 202);
+    width: 300px;
+    padding: 3px;
+    border: 3px solid;
+    border-color: rgb(219, 146, 210);
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+
+.kuva img{
+    width: 400px;
+  }
+
+#lotuskukka img{
+    width: 400px;
+    margin-left: -40px;
+  }
+
+#kuvateksti {
+  margin-left: -40px;
+  }
+
+
